@@ -1,0 +1,10 @@
+*.jpg
+*.png
+*.mp3
+*.lib
+*.com
+*.class
+*.dll
+*.exe
+*.o
+*.so
